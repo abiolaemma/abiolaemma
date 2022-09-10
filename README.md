@@ -24,12 +24,16 @@
 
 ## <u>About Me:</u>
 
-<li> I am a Cloud Enthusiast, I love everything about Cloud Computing </b>
+<li> I am a Cloud Enthusiast, I love everything about Cloud Computing and its Architectures </b>
+<li> I’m looking to collaborate on anything & everything that has to do with Cloud Arhitecting and Designing
 <li> Proud Alumni of the Great <i> Miami University</i> </b>
 <li> Husband to an Amazing Wife </b>
 <li> I am an Environmental Advocate for Sustainability </b>
 <li> Pronouns: He/Him
-<li> Thank you for reading my bio! Please reach out to me via: abiolaemma2014@gmail.com </b>
+<li> [abiolaemma2014@gmail.com](https://mailto:abiolaemma2014@gmail.com%20/)</b>
+<li> Thank you for reading my bio! I look forward to working with you 
+
+
 
 ## <u> Kindly Connect with me:</u>
 [![Gmail](https://img.shields.io/badge/gmail-0078D4?style=for-the-badge&logo=gmail&logoColor=white)](https://mailto:abiolaemma2014@gmail.com%20/)
@@ -54,6 +58,7 @@
 - [A Collaborative Full-Stack React Project](https://github.com/jbright-dev/CO-01.TechRallyReactProject)
 - [A Full-Stack Python Application](https://github.com/jbright-dev/PY-01.Destination.ws)
 - [A Full-Stack Azure hosted Website](https://github.com/jbright-dev/SOD-Website-Project)
+- [abiolaemma2014@gmail.com](https://mailto:abiolaemma2014@gmail.com%20/)
 
 <details>
   <summary>Repository IDs</summary>
