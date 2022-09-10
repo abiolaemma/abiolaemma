@@ -8,8 +8,9 @@
 ## <u>My Tech Stack:</u>
 
 ![Amazon AWS](https://img.shields.io/badge/Amazon%20AWS-%23323330.svg?style=for-the-badge&logo=Amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=Linux&logoColor=black)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Git](https://img.shields.io/badge/-Git-black?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
@@ -22,11 +23,19 @@
 
 ## <u>About Me:</u>
 
-<li> Born, raised, and proudly reside in the great state of Mississippi <b>#SouthernMade</b>
-<li> Proud Alumni of THE Illustrious <i>Alcorn State University</i>, <b>#HBCUGrad</b>
-<li> Husband to an Amazing Wife and Father to two Amazing Boys <b>#FamilyGuy</b>
-<li> Lead Guitarist for a group of Outstanding Musicians <b>#DjTurnMeUp</b>
-<li> Life-long learner using each day, to grow in some way <b>#ThatRhymed</b> 
+<li> I am a Cloud Enthusiast, I love everything about Cloud Computing </b>
+<li> Proud Alumni of the Great <i> Miami University</i> </b>
+<li> Husband to an Amazing Wife </b>
+<li> I am also an Environmental Advocate for Sustainability </b>
+<li> Pronouns: He/Him
+<li> Please reach out to me via: abiolaemma2014@gmail.com</b>
+
+
+## <u>My Certifications:</u>
+
+- [A Collaborative Full-Stack React Project](https://github.com/jbright-dev/CO-01.TechRallyReactProject)
+- [A Full-Stack Python Application](https://github.com/jbright-dev/PY-01.Destination.ws)
+- [A Full-Stack Azure hosted Website](https://github.com/jbright-dev/SOD-Website-Project)
 
 <hr>
 
@@ -54,7 +63,7 @@
 </details>
 <hr>
 
-## <u>My Latest Blog Posts:</u>
+## <u>My Blog Posts:</u>
 
 <!-- HASHNODE:START -->
 - [The Shed S01E00](https://jbrightdev.hashnode.dev/the-shed-s01e00)
@@ -74,6 +83,11 @@
 [![Instagram](https://img.shields.io/badge/instagram-0078D4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/godwithmeh/)
 <hr>
 <br>
+ 
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Abiolaemma&count_private=true&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiolaemma&hide=TeX&layout=compact)
+
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=<Abiolaemma>%2F<Abiolaemma>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<Abiolaemma>%2F<Abiolaemma>) 
 
 ### <p align="center"> “What is worth doing at all is worth doing well.” - Anonymous * </p>
 
