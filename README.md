@@ -30,8 +30,8 @@
 <li> Husband to an Amazing Wife </b>
 <li> I am an Environmental Advocate for Sustainability </b>
 <li> Pronouns: He/Him
-<li> [abiolaemma2014@gmail.com](https://mailto:abiolaemma2014@gmail.com%20/)</b>
-<li> Thank you for reading my bio! I look forward to working with you 
+<li> Please reach out to me on <a href="https://mailto:abiolaemma2014@gmail.com%20"> abiolaemma2014@gmail.com </a>
+<li> Thank you for reading my bio! I look forward to working with you!
 
 
 
