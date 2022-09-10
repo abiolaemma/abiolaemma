@@ -48,17 +48,25 @@
 <hr>
 
 ## <u> My Certifications: </u>
-- [A Collaborative Full-Stack React Project](https://github.com/jbright-dev/CO-01.TechRallyReactProject)
-- [A Full-Stack Python Application](https://github.com/jbright-dev/PY-01.Destination.ws)
-- [A Full-Stack Azure hosted Website](https://github.com/jbright-dev/SOD-Website-Project)
+- [AWS Certified Solution Architect](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profile)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fc501d05-f09c-494f-b7c9-734e38f19252/linked_in_profile)
+- [Linux Essentials](https://verify.acloud.guru/9830E0B25F5B)
+- [ACG DevOp Essentials](https://verify.acloud.guru/62EE58193FFB)
+- [ACG Python 3 Scripting for System Administrators](https://verify.acloud.guru/09A475AC68DA)
+- [Google Analysis with R Programming](https://www.coursera.org/account/accomplishments/certificate/RFPQELGJS9XD)
+- [Google Analyze Data to Answer Questions](https://www.coursera.org/account/accomplishments/certificate/2PNDMUVTEH3U)
+  
+   
 <hr>
 
 ## <u>My Current Projects:</u>
 
-- [A Collaborative Full-Stack React Project](https://github.com/jbright-dev/CO-01.TechRallyReactProject)
-- [A Full-Stack Python Application](https://github.com/jbright-dev/PY-01.Destination.ws)
-- [A Full-Stack Azure hosted Website](https://github.com/jbright-dev/SOD-Website-Project)
-- [abiolaemma2014@gmail.com](https://mailto:abiolaemma2014@gmail.com%20/)
+- [Creating A Custome VPC](https://medium.com/@abiolaemma2014)
+- [Migrating an Existing Website to Static Hosting on S3](https://medium.com/@abiolaemma2014)
+- [Creating an S3 bucket and securing with the Bucket Policy](https://medium.com/@abiolaemma2014)
+- [Traffic Mirroring](https://medium.com/@abiolaemma2014)
+- [Configuring an Alarmon Cloudwatch](https://medium.com/@abiolaemma2014)
+- [What we need to Know about Cloud Storage](https://medium.com/@abiolaemma2014)
 
 <details>
   <summary>Repository IDs</summary>
@@ -75,20 +83,16 @@
 ## <u>My Blog Posts:</u>
 
 <!-- HASHNODE:START -->
-- [The Shed S01E00](https://jbrightdev.hashnode.dev/the-shed-s01e00)
-- [&quot;Keep it simple, don&#39;t be basic&quot;](https://jbrightdev.hashnode.dev/keep-it-simple-dont-be-basic)
-- [&quot;Pilot, follow that roadmap&quot;](https://jbrightdev.hashnode.dev/pilot-follow-that-roadmap)
+- [Data Warehouse vs Data Lake](https://medium.com/@abiolaemma2014)
+- [Secret Manger vs Parameter Store](https://medium.com/@abiolaemma2014)
+- [security Group vs Network Accedd Control List (NACL)](https://medium.com/@abiolaemma2014)
 <!-- HASHNODE:END -->
 
 <hr>
 
 
-
-
- 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=Abiolaemma&count_private=true&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abiolaemma&hide=TeX&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiolaemma&hide=TeX&layout=compact)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=<Abiolaemma>%2F<Abiolaemma>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<Abiolaemma>%2F<Abiolaemma>) 
 
 ### <p align="center"> “What is worth doing at all is worth doing well.” - Philip Stanhope * </p>
