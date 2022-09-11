@@ -26,7 +26,7 @@
 
 <li> I am a Cloud Enthusiast 
 <li> I love everything about Cloud Computing and its Architectures :two_hearts:  </b>
-<li> I’m looking to collaborate on anything & everything that has to do with Cloud Arhitecting and Consultancy 
+<li> I’m looking to collaborate on everything that has to do with Cloud-based Arhitecting and Consultancy 
 <li> Proud Alumni of the Great <i> Miami University</i> </b>
 <li> Husband to an Amazing Wife </b>
 <li> I'm an Environmental Advocate for Sustainability </b>
