@@ -1,7 +1,7 @@
 ![Hello Summer!](https://user-images.githubusercontent.com/42983208/189463315-6a976032-1b87-40ea-aa16-fe982ccf9306.gif)
 
 
-# <p align="center"> <b>Hi,  I'm Emmanuel - happy to have you here! </b> <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi"> I'm looking forward to working with you
+# <p align="center"> <b>Hi<img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width= "28px" alt="Hi">,  I'm Emmanuel - happy to have you here! </b> I'm looking forward to working with you
 
 
 <p align="center">
@@ -68,6 +68,7 @@
 - [Traffic Mirroring](https://medium.com/@abiolaemma2014)
 - [Configuring an Alarmon Cloudwatch](https://medium.com/@abiolaemma2014)
 - [What we need to Know about Cloud Storage](https://medium.com/@abiolaemma2014)
+- [Migrating a Database with DMS from On-Prem to AWS](https://medium.com/@abiolaemma2014)
 
 <details>
   <summary>Repository IDs</summary>
