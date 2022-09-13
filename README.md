@@ -97,5 +97,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abiolaemma&hide=TeX&layout=compact)
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=<Abiolaemma>%2F<Abiolaemma>&label=VISITORS&countColor=%23263759)](https://visitorbadge.io/status?path=<Abiolaemma>%2F<Abiolaemma>) 
 
-### <p align="center"> “What is worth doing at all is worth doing well.” - Philip Stanhope * </p>
+### <p align="center"> “We are what we know, when what we changes then we change.” - Edmund Burke * </p>
 
