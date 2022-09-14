@@ -87,7 +87,7 @@
 ## <u>My Blog Posts:</u>
 
 <!-- HASHNODE:START -->
-- [Reasons Why Your Visual Code Live Server Would not Work ](https://medium.com/@abiolaemma2014)
+- [Reasons Why Your Visual Studio Code Live Server Would not Work ](https://medium.com/@abiolaemma2014)
 - [Data Warehouse vs Data Lake](https://medium.com/@abiolaemma2014)
 - [Secret Manger vs Parameter Store](https://medium.com/@abiolaemma2014)
 - [security Group vs Network Accedd Control List (NACL)](https://medium.com/@abiolaemma2014)
