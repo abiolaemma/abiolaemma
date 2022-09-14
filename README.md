@@ -16,6 +16,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML](https://img.shields.io/badge/html-%23323330.svg?style=for-the-badge&logo=html&logoColor=%23F7DF1E)
+![CSS](https://img.shields.io/badge/css-%23323330.svg?style=for-the-badge&logo=css&logoColor=%23F7DF1E)
 
 <br>
 
@@ -32,7 +34,7 @@
 <li> I'm an Environmental Advocate for Sustainability </b>
 <li> Pronouns: He/Him
 <li> Please reach out to me on <a href="https://mailto:abiolaemma2014@gmail.com%20"> abiolaemma2014@gmail.com </a>
-<li> Thank you for reading my bio! I look forward to working with you!:smile:
+<li> Thank you for reading my bio! I look forward to working with you!
 
 
 
@@ -85,6 +87,7 @@
 ## <u>My Blog Posts:</u>
 
 <!-- HASHNODE:START -->
+- [Reasons Why Your Visual Code Live Server Would not Work ](https://medium.com/@abiolaemma2014)
 - [Data Warehouse vs Data Lake](https://medium.com/@abiolaemma2014)
 - [Secret Manger vs Parameter Store](https://medium.com/@abiolaemma2014)
 - [security Group vs Network Accedd Control List (NACL)](https://medium.com/@abiolaemma2014)
