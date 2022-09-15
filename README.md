@@ -31,7 +31,7 @@
 <li> I’m looking to collaborate on everything that has to do with Cloud-based Arhitecting and Consultancy 
 <li> Proud Alumni of the Great <i> Miami University</i> </b>
 <li> Husband to an Amazing Wife </b>
-<li> I'm an Environmental Advocate for Sustainability </b>
+<li> I'm an Advocate of Climate Tech. & Environmental Sustainability </b>
 <li> Pronouns: He/Him
 <li> Please reach out to me on <a href="https://mailto:abiolaemma2014@gmail.com%20"> abiolaemma2014@gmail.com </a>
 <li> Thank you for reading my bio! I look forward to working with you!
