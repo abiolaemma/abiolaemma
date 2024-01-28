@@ -64,7 +64,7 @@
 
 ## <u>My Current Projects:</u>
 
-- [Creating A Custome VPC](https://medium.com/@abiolaemma2014)
+- [Creating A Custom VPC](https://medium.com/@abiolaemma2014)
 - [Migrating an Existing Website to Static Hosting on S3](https://medium.com/@abiolaemma2014)
 - [Creating an S3 bucket and securing with the Bucket Policy](https://medium.com/@abiolaemma2014)
 - [Traffic Mirroring](https://medium.com/@abiolaemma2014)
