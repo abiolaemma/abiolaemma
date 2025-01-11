@@ -51,7 +51,7 @@
 <hr>
 
 ## <u> My Certifications: </u>
-- [AWS Certified Developer Associate](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profilehttps://www.credly.com/badges/ca66eddb-cc56-4aa5-a2e0-0b3e3eddf944/public_url)
+- [AWS Certified Developer Associate](https://www.credly.com/badges/ca66eddb-cc56-4aa5-a2e0-0b3e3eddf944)
 - [AWS Certified Solution Architect](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profile)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fc501d05-f09c-494f-b7c9-734e38f19252/linked_in_profile)
 - [Linux Essentials](https://verify.acloud.guru/9830E0B25F5B)
