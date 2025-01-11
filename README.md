@@ -52,8 +52,9 @@
 
 ## <u> My Certifications: </u>
 - [AWS Certified Developer Associate](https://www.credly.com/badges/ca66eddb-cc56-4aa5-a2e0-0b3e3eddf944)
-- [AWS Certified Solution Architect](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profile)
-- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fc501d05-f09c-494f-b7c9-734e38f19252/linked_in_profile)
+- [AWS Certified Solutions Architect](https://www.credly.com/badges/1fb0f571-80cc-4353-9405-faf0487e294d)
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/bf70caf0-fc67-465b-826c-475c06ff3f23)
+- [Software Engineering: Web Development](https://www.credly.com/badges/0555e10d-781f-4aed-86c8-bd8f2e70b385)
 - [Linux Essentials](https://verify.acloud.guru/9830E0B25F5B)
 - [ACG DevOp Essentials](https://verify.acloud.guru/62EE58193FFB)
 - [ACG Python 3 Scripting for System Administrators](https://verify.acloud.guru/09A475AC68DA)
