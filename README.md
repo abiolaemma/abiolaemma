@@ -26,8 +26,8 @@
 
 ## <u>About Me:</u>
 
-<li> I am a Cloud DevOps Enthusiast 
-<li> I love everything about Cloud DevOps and all its environments :two_hearts:  </b>
+<li> I am a Cloud DevOps Security Engineer 
+<li> I love everything about Cloud Security & DevOps and all its environments :two_hearts:  </b>
 <li> I’m looking to collaborate on everything that has to do with Cloud-based Arhitecting and Consultancy 
 <li> Proud Alumni of the Great <i> Miami University</i> </b>
 <li> Husband to an Amazing Wife </b>
@@ -51,6 +51,7 @@
 <hr>
 
 ## <u> My Certifications: </u>
+- [AWS Certified Developer associate](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profile)
 - [AWS Certified Solution Architect](https://www.credly.com/badges/9ffa49d4-130d-4104-a7ca-cb646a62c232/linked_in_profile)
 - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/fc501d05-f09c-494f-b7c9-734e38f19252/linked_in_profile)
 - [Linux Essentials](https://verify.acloud.guru/9830E0B25F5B)
