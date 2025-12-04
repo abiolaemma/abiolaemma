@@ -26,7 +26,7 @@
 
 ## <u>About Me:</u>
 
-<li> I am a Cloud DevOps Security Engineer 
+<li> I am a Cloud DevOps Security Engineer and Senior Consultant
 <li> I love everything about Cloud Security & DevOps and all its environments :two_hearts:  </b>
 <li> I’m looking to collaborate on everything that has to do with Cloud-based Arhitecting and Consultancy 
 <li> Proud Alumni of the Great <i> Miami University</i> </b>
